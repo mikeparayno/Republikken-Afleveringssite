@@ -1,0 +1,143 @@
+body {
+    font-family: "HelveticaNeue-Light", sans-serif;
+    margin: 0 auto;
+    padding: 3vw;
+    background-color: black;
+}
+
+div {
+    width: 65vw;
+}
+
+a {
+    color: white;
+    font-size: 2em;
+}
+
+.blue {
+    color: #689ca0;
+}
+
+.white {
+    color: white;
+}
+
+
+.gray {
+    color: gray;
+}
+
+.b1 {
+    font-size: 1.2em;
+    color: white;
+}
+
+b {
+    font-size: 1.2em;
+    color: #689ca0;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 2px 0;
+    color: white;
+}
+
+li {
+    font-size: 1.2em;
+    margin: 2px 0;
+    color: white;
+}
+
+h1 {
+    font-size: 4.8em;
+    margin: 0;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    color: white;
+    border-bottom: solid 2px white;
+    font-size: 3em;
+}
+
+h3 {
+    font-family: "HelveticaNeue-Light", sans-serif;
+    color: white;
+    font-size: 2em;
+    margin: 5px 0;
+}
+
+/*-------- MENU ---------*/
+
+header {
+    position: fixed;
+    width: 25vw;
+    right: 5vw;
+}
+
+header p {
+
+    font-family: "Times New Roman", serif;
+    text-align: right;
+    font-size: 5em;
+
+}
+
+header nav {
+    font-family: "HelveticaNeue-Light", sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+    width: 25vw;
+}
+
+header nav a {
+    text-decoration: none;
+    display: block;
+    font-size: 1em;
+}
+
+
+header nav a:hover {
+    color: #689ca0;
+    /*en anden farve når musen går henover*/
+}
+
+/*-------- FOOTER --------*/
+
+footer {
+    color: cadetblue;
+    padding: 50px 0;
+}
+
+/*-------- GRUPPEMEDLEMMER --------*/
+
+#gruppemedlemmer {}
+
+.strong {
+    text-transform: uppercase;
+
+}
+
+
+/*-------- GENNEMGANGSVIDEO --------*/
+
+/*
+#keashare_gennemgangsvideo {}
+
+.videowrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+    margin-bottom: 20px;
+}
+
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+*/
